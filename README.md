@@ -3,7 +3,7 @@
 Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
 
 [![Build Status](https://travis-ci.org/faeliaso/mustang-boilerplate.svg?branch=master)](https://travis-ci.org/faeliaso/mustang-boilerplate)
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](http://faeliaso.mit-license.org/)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](http://faeliaso.mit-license.org/) [![Greenkeeper badge](https://badges.greenkeeper.io/vitormalencar/mustang-boilerplate.svg)](https://greenkeeper.io/)
 
 ### Estrutura
 ##### Desenvolvimento
